@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ClassData.cs](./CS/DiagramDataControllerBehavior/Data/ClassData.cs) (VB: [ClassData.vb](./VB/DiagramDataControllerBehavior/Data/ClassData.vb))
+* [ClassStructureGenerator.cs](./CS/DiagramDataControllerBehavior/Data/ClassStructureGenerator.cs) (VB: [ClassStructureGenerator.vb](./VB/DiagramDataControllerBehavior/Data/ClassStructureGenerator.vb))
+* [Form1.cs](./CS/DiagramDataControllerBehavior/Form1.cs) (VB: [Form1.vb](./VB/DiagramDataControllerBehavior/Form1.vb))
+* [Program.cs](./CS/DiagramDataControllerBehavior/Program.cs) (VB: [Program.vb](./VB/DiagramDataControllerBehavior/Program.vb))
+<!-- default file list end -->
 # How to generate a diagram from a collection using DiagramDataBindingController
 
 
